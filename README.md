@@ -13,4 +13,4 @@ The design is simple and clean. The main focus is on the pictures, which are of 
 - Run `npm install` in your terminal
 - Run `npm start`
 ## Troubleshooting
-For any suggestions or error reports contact me via [Telegram](https://t.me/redrum_back)
+For any suggestions or error reports contact me via [Telegram](https://t.me/lera_yaskevych)
